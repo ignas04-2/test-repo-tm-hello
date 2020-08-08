@@ -1,2 +1,1 @@
-debug print statement broke it lol
-l i n e
+whats up it me bleck back at it again with some more test commits
